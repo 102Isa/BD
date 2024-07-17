@@ -4,6 +4,5 @@
 desc funcionario;
 select * from funcionario;
 
-aaaaa
 
 
