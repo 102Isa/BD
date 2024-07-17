@@ -14,3 +14,4 @@ ADD COLUMN `email` VARCHAR(250) NULL AFTER `salarioAtual`,
 ADD COLUMN `dataAdmissao` DATE NULL AFTER `email`;
 
 
+ 
